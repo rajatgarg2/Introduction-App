@@ -1,6 +1,8 @@
-# intro
+# Introduction App
 
-A new Flutter project.
+## This is how the App looks:
+
+![Intro](/images/introImage.jpg)
 
 ## Getting Started
 
